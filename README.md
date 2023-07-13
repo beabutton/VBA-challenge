@@ -8,8 +8,6 @@ https://stackoverflow.com/questions/52122844/how-to-apply-a-vba-code-to-every-pa
 
 https://stackoverflow.com/questions/62471422/vba-loop-how-to-get-ticker-symbols-into-ticker-column
 
-https://stackoverflow.com/questions/57279654/is-there-something-in-my-vba-code-that-is-causing-me-to-get-an-overflow-error
-
 https://stackoverflow.com/questions/20339067/excel-vba-overflow-error
 
 https://excelchamps.com/vba/autofit/
